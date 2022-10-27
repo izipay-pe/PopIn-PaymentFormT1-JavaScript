@@ -3,7 +3,7 @@
 Ejemplo de un formulario incrustado en JavaScript, para poder ejecutar el siguiente ejemplo seguir los pasos del presente manual.
 
 <p align="center">
-  <img src="/image/imagenes-readme/formulario-popin.png?raw=true" alt="Formulario"/>
+  <img src="/image/imagenes-readme/formulario-redireccion.png?raw=true" alt="Formulario"/>
 </p>    
 
 <a name="Requisitos_Previos"></a>
@@ -74,6 +74,3 @@ Para obtener más información, eche un vistazo a:
 * Ver el ejemplo de la respuesta IPN con PHP [Aquí](https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP).
 
 * Ver el ejemplo de la respuesta IPN con NODE.JS [Aquí](https://github.com/izipay-pe/Response-PaymentFormT1-Ipn).
-
-## 5.- Demo
-* Pruebe la demo en la [URL Aquí: demo en mantenimiento]().
