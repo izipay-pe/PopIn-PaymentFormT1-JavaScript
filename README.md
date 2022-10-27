@@ -3,7 +3,7 @@
 Ejemplo de un formulario incrustado en JavaScript, para poder ejecutar el siguiente ejemplo seguir los pasos del presente manual.
 
 <p align="center">
-  <img src="/image/imagenes-readme/formulario-redireccion.png?raw=true" alt="Formulario"/>
+  <img src="/image/imagenes-readme/formulario-popin.png?raw=true" alt="Formulario"/>
 </p>    
 
 <a name="Requisitos_Previos"></a>
